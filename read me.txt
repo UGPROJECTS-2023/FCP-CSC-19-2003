@@ -1,0 +1,6 @@
+the database is name lms .. creat a database and name it lms then import  the sql file to get the full database table
+. 
+
+username is admin
+password is admin 
+where submit button is not present try to double click as submit.. in any open field . thanks
